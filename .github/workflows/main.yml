@@ -1,0 +1,14 @@
+https://github.com/sqe375/git-remote-add-origin-https-github.com-sqe375-Sqe.git-git-Branch--M-main-git-push--u-origin-main.gitecho "# git-remote-add-origin-https-github.com-sqe375-Sqe.git-git-Branch - M-main-git-push - u-origin-main" >> README.md git 
+
+init 
+
+git add README.md 
+
+git الالتزام -m "الالتزام الأول" 
+
+git Branch -M main 
+
+git remote add origin https://github.com/sqe375/git-remote-add-origin-https-github.com-sqe375-Sqe. git-git-Branch - M-main-git-push - u-origin-main.git
+
+ git push -u origin main2Sj8Knw9Lja34N2vOcGNGJLsWLr_4bP9yE21oadRdq15BeTqv
+
